@@ -66,4 +66,5 @@ key: 3 , vlalue:2.6457513110645907
 sum = 0
 for i in range(1, 11):
     sum =  sum+i
-    print(sum)55
+    print(sum)
+    55
